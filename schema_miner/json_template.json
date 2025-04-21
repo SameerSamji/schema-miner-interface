@@ -1,0 +1,11 @@
+{
+    "title": "Your schema will appear here...",
+    "type": "object",
+    "properties": {
+      "example_property": {
+        "type": "string",
+        "description": "An example property"
+      }
+    },
+    "required": ["example_property"]
+}
